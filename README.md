@@ -12,7 +12,7 @@ where the file you want to move are located
 where to move the files too
 
 ## structure
-the downloaded torrent file structure, it removes all files with .fdmdownload extenstion
+the downloaded torrent file structure, it removes all extension .fdmdownload from the files
 
 ### Author
 Abdul-Rauf Alhassan
